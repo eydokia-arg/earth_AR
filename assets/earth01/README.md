@@ -1,0 +1,1 @@
+This work is based on "Earth" ([https://sketchfab.com/3d-models/earth-41fc80d85dfd480281f21b74b2de2faa](https://sketchfab.com/3d-models/earth-41fc80d85dfd480281f21b74b2de2faa)) by Akshat ([https://sketchfab.com/shooter24994](https://sketchfab.com/shooter24994)) licensed under CC-BY-4.0 ([http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/))
