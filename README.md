@@ -14,7 +14,7 @@
 
 * Geography [Basic Mode](https://github.com/eydokia-arg/earth_AR/blob/main/index.html)
 * Geography [Night Mode](https://github.com/eydokia-arg/earth_AR/blob/main/night.html)
-* Geography [Terrain Mode](https://arcloud27.github.io/arjs03/geography/terrain.html)
+* Geography [Terrain Mode](https://github.com/eydokia-arg/earth_AR/blob/main/terrain.html)
 
 ### Βήμα 03
 Σκανάρουμε τον marker και παρατηρούμε το αντικείμενο.
