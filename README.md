@@ -13,7 +13,7 @@
 Ανοίγουμε έναν από τους παρακάτω συνδέσμους από τη φορητή μας συσκευή. Ζητείται πρόσβαση από την κάμερα της συσκευής μας.
 
 * Geography [Basic Mode](https://github.com/eydokia-arg/earth_AR/blob/main/index.html)
-* Geography [Night Mode](https://arcloud27.github.io/arjs03/geography/night.html)
+* Geography [Night Mode](https://github.com/eydokia-arg/earth_AR/blob/main/night.html)
 * Geography [Terrain Mode](https://arcloud27.github.io/arjs03/geography/terrain.html)
 
 ### Βήμα 03
