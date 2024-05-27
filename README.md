@@ -7,14 +7,14 @@
 
 ### Βήμα 01
 Αρχικά εκτυπώνουμε το παρακάτω
-* [Hiro Marker](https://github.com/arCloud27/arjs03/assets/19952914/197c54f1-7bb6-4592-8162-2bc5b83cd555)
+* [Hiro Marker](https://upload.wikimedia.org/wikipedia/commons/4/48/Hiro_marker_ARjs.png?20171212180525)
 
 ### Βήμα 02
 Ανοίγουμε έναν από τους παρακάτω συνδέσμους από τη φορητή μας συσκευή. Ζητείται πρόσβαση από την κάμερα της συσκευής μας.
 
-* Geography [Basic Mode](https://github.com/eydokia-arg/earth_AR/blob/main/index.html)
-* Geography [Night Mode](https://github.com/eydokia-arg/earth_AR/blob/main/night.html)
-* Geography [Terrain Mode](https://github.com/eydokia-arg/earth_AR/blob/main/terrain.html)
+* Geography [Basic Mode](eydokia-arg.github.io/earth_AR/index.html)
+* Geography [Night Mode](eydokia-arg.github.io/earth_AR/night.html)
+* Geography [Terrain Mode](eydokia-arg.github.io/earth_AR/terrain.html)
 
 ### Βήμα 03
 Σκανάρουμε τον marker και παρατηρούμε το αντικείμενο.
