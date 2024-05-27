@@ -12,9 +12,9 @@
 ### Βήμα 02
 Ανοίγουμε έναν από τους παρακάτω συνδέσμους από τη φορητή μας συσκευή. Ζητείται πρόσβαση από την κάμερα της συσκευής μας.
 
-* Geography [Basic Mode](eydokia-arg.github.io/earth_AR/index.html)
-* Geography [Night Mode](eydokia-arg.github.io/earth_AR/night.html)
-* Geography [Terrain Mode](eydokia-arg.github.io/earth_AR/terrain.html)
+* Geography [Basic Mode](https://eydokia-arg.github.io/earth_AR/index.html)
+* Geography [Night Mode](https://eydokia-arg.github.io/earth_AR/night.html)
+* Geography [Terrain Mode](https://eydokia-arg.github.io/earth_AR/terrain.html)
 
 ### Βήμα 03
 Σκανάρουμε τον marker και παρατηρούμε το αντικείμενο.
